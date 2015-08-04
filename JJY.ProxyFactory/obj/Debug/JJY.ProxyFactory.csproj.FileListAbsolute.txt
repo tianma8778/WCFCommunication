@@ -1,0 +1,10 @@
+E:\User Space\JJY\JJY.ProxyFactory\bin\Debug\JJY.ProxyFactory.dll
+E:\User Space\JJY\JJY.ProxyFactory\bin\Debug\JJY.ProxyFactory.pdb
+E:\User Space\JJY\JJY.ProxyFactory\obj\Debug\JJY.ProxyFactory.csprojResolveAssemblyReference.cache
+E:\User Space\JJY\JJY.ProxyFactory\obj\Debug\JJY.ProxyFactory.dll
+E:\User Space\JJY\JJY.ProxyFactory\obj\Debug\JJY.ProxyFactory.pdb
+E:\Work space\wcf_Example\JJY\JJY.ProxyFactory\bin\Debug\JJY.ProxyFactory.dll
+E:\Work space\wcf_Example\JJY\JJY.ProxyFactory\bin\Debug\JJY.ProxyFactory.pdb
+E:\Work space\wcf_Example\JJY\JJY.ProxyFactory\obj\Debug\JJY.ProxyFactory.csprojResolveAssemblyReference.cache
+E:\Work space\wcf_Example\JJY\JJY.ProxyFactory\obj\Debug\JJY.ProxyFactory.dll
+E:\Work space\wcf_Example\JJY\JJY.ProxyFactory\obj\Debug\JJY.ProxyFactory.pdb

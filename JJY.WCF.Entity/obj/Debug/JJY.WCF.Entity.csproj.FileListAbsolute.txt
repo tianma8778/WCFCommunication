@@ -1,0 +1,5 @@
+E:\User Space\JJY\JJY\JJY.WCF.Entity\obj\Debug\JJY.WCF.Entity.csprojResolveAssemblyReference.cache
+E:\User Space\JJY\JJY\JJY.WCF.Entity\bin\Debug\JJY.WCF.Entity.dll
+E:\User Space\JJY\JJY\JJY.WCF.Entity\bin\Debug\JJY.WCF.Entity.pdb
+E:\User Space\JJY\JJY\JJY.WCF.Entity\obj\Debug\JJY.WCF.Entity.dll
+E:\User Space\JJY\JJY\JJY.WCF.Entity\obj\Debug\JJY.WCF.Entity.pdb
